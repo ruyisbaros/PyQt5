@@ -152,3 +152,4 @@ cython_debug/
 .idea/
 Advanced_Music_Player_with_PyQt5
 utils_m
+*.png
