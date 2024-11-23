@@ -1,0 +1,29 @@
+<RCC>
+  <qresource>
+    <file>imgs/add student.png</file>
+    <file>imgs/dashboard1.png</file>
+    <file>imgs/dashboard2.png</file>
+    <file>imgs/dashboardsmall1.png</file>
+    <file>imgs/dashboardsmall2.png</file>
+    <file>imgs/delete.png</file>
+    <file>imgs/edit.png</file>
+    <file>imgs/excel.png</file>
+    <file>imgs/finances1.png</file>
+    <file>imgs/financessmall1.png</file>
+    <file>imgs/institutionsmall1.png</file>
+    <file>imgs/logo.png</file>
+    <file>imgs/logosmall2.png</file>
+    <file>imgs/menu.png</file>
+    <file>imgs/pdf.png</file>
+    <file>imgs/profile.png</file>
+    <file>imgs/search.png</file>
+    <file>imgs/settings1.png</file>
+    <file>imgs/settingssmall2.png</file>
+    <file>imgs/signout1.png</file>
+    <file>imgs/signoutsmall2.png</file>
+    <file>imgs/studentssmall1.png</file>
+    <file>imgs/studentssmall2.png</file>
+    <file>imgs/teachers1.png</file>
+    <file>imgs/teacherssmall2.png</file>
+  </qresource>
+</RCC>
