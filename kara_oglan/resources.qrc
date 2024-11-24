@@ -1,5 +1,23 @@
 <RCC>
   <qresource>
+    <file>imgs/financessmall2.png</file>
+    <file>imgs/studentssmall2.png</file>
+    <file>imgs/institutionsmall2.png</file>
+    <file>imgs/dashboardsmall2.png</file>
+    <file>imgs/institution1.png</file>
+    <file>imgs/finances4.png</file>
+    <file>imgs/students4.png</file>
+    <file>imgs/signout2.png</file>
+    <file>imgs/settings2.png</file>
+    <file>imgs/institution2.png</file>
+    <file>imgs/finances3.png</file>
+    <file>imgs/teachers4.png</file>
+    <file>imgs/teachers3.png</file>
+    <file>imgs/signoutsmall1.png</file>
+    <file>imgs/students3.png</file>
+    <file>imgs/settingssmall1.png</file>
+    <file>imgs/teacs.png</file>
+    <file>imgs/teacherssmall2.png</file>
     <file>imgs/add student.png</file>
     <file>imgs/dashboard1.png</file>
     <file>imgs/dashboard2.png</file>
